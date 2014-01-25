@@ -1,0 +1,10 @@
+c:\users\developerff\documents\visual studio 2010\Projects\FullBrowserSample\FullBrowserControl\obj\Debug\ResolveAssemblyReference.cache
+c:\users\developerff\documents\visual studio 2010\Projects\FullBrowserSample\FullBrowserControl\obj\Debug\FullBrowserControl.g.resources
+c:\users\developerff\documents\visual studio 2010\Projects\FullBrowserSample\FullBrowserControl\Bin\Debug\FullBrowserControl.dll
+c:\users\developerff\documents\visual studio 2010\Projects\FullBrowserSample\FullBrowserControl\Bin\Debug\FullBrowserControl.pdb
+c:\users\developerff\documents\visual studio 2010\Projects\FullBrowserSample\FullBrowserControl\obj\Debug\FullBrowserControl.dll
+c:\users\developerff\documents\visual studio 2010\Projects\FullBrowserSample\FullBrowserControl\obj\Debug\FullBrowserControl.pdb
+C:\Users\DeveloperFF\Documents\Visual Studio 2010\Projects\FullBrowserSample\FullBrowserControl\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\DeveloperFF\Documents\Visual Studio 2010\Projects\FullBrowserSample\FullBrowserControl\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\DeveloperFF\Documents\Visual Studio 2010\Projects\FullBrowserSample\FullBrowserControl\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\DeveloperFF\Documents\Visual Studio 2010\Projects\FullBrowserSample\FullBrowserControl\obj\Debug\FullWebBrowser.g.i.cs
